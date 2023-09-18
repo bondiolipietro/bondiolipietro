@@ -6,6 +6,8 @@ Full Stack Software Engineer
 
 THIS IS MY OLD GITHUB USERNAME, MY NEW ONE IS [**@pietrobondioli**](https://github.com/pietrobondioli)
 
+MIGRATED ON 2023-09-18
+
 ---
 
 #### _“Accept the things to which fate binds you, and love the people with whom fate brings you together, but do so with all your heart..”_
